@@ -22,7 +22,7 @@ Follow these steps to initialize your **Photino.Blazor** project:
 Open a terminal and run:
 
 ```bash
-dotnet new blazor
+dotnet new blazor -n Photino.Blazor.net9_template
 ```
 
 ### **Step 2: Install Photino.Blazor**
